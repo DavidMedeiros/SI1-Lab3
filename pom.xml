@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>gerenciamento</groupId>
-	<artifactId>TarefaGerenciamento</artifactId>
+	<groupId>LAB3SI</groupId>
+	<artifactId>ToDoList</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>TarefaGerenciamento</name>
-	<description>Aplicacao de gerenciamento de tarefas</description>
+	<name>ToDoList</name>
+	<description>Lab3 SI</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
